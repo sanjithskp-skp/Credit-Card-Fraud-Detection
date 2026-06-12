@@ -1,0 +1,11 @@
+# Large datasets
+data/creditcard.csv
+data/X_train_smote.csv
+data/y_train_smote.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
